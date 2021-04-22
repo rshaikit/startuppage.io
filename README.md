@@ -1,1 +1,2 @@
-# startuppage.io
+# startup-of-the-year
+Starter project
